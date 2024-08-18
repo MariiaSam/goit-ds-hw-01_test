@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "project"
+name = "goit-ds-hw-01"
 version = "0.1.0"
-description = ""
-authors = ["MariiaSam <kontragent@ukr.net>"]
+description = "homeWork"
+authors = ["Mariia Samodurova"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 
 
 [build-system]
